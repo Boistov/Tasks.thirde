@@ -5,6 +5,11 @@ num = number_list[:5]
 print(num)
 
 
+
+
+
+
+#in duyum rohi kor 
 #number_list = []
 
 #for i in range(10):
